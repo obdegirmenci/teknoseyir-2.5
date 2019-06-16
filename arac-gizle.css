@@ -1,0 +1,2 @@
+/* Sayfanın yanındaki araçları tamamen gizler */
+#col-move, #col-right { display: none }
