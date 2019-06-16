@@ -1,0 +1,4 @@
+/* Ekranın sağında ve solunda kayan araçları sayfanın başına sabitler */
+.theiaStickySidebar { padding-top: 0px !important; padding-bottom: 1px !important; position: static !important; transform: none !important; top: 0px !important}
+#col-move .theiaStickySidebar { left: 52px !important }
+#col-right .theiaStickySidebar { left: 1002px !important }
